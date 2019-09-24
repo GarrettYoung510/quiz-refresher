@@ -21,8 +21,26 @@ form.addEventListener("submit", e => {
   result.querySelector("span").textContent = `${score}%`;
   //   use classList to remove d-none
   result.classList.remove("d-none");
+
+//   animation effect 
+  let output = 0;
+  const timer = setInterval(() => {
+      result.querySelector('span').textContent = `${output}%`;
+      if(output === score) {
+          clearInterval(timer);
+      } else {
+          output++;
+      }
+  }, 10);
 });
 
+
+// // executes ONCE after 3000 ms
 // setTimeout(() => {
 //   alert("hello");
 // }, 3000);
+
+// // executes every 1000 ms
+// setInterval(() => {
+//     console.log('hello');
+// }, 1000);
