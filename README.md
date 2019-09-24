@@ -4,4 +4,18 @@
 
 Built as a refresher on front end topics
 
-Used Vanilla JS, Real DOM manipulation, window manipulation (scrollTo, preventDefault) and setInterval effects, animation effect for score calculation
+## Technologies Used
+* Vanilla JS 
+* Real DOM manipulation
+* Window Manipulation methods (scrollTo, preventDefault)
+* Animation (setInterval for score calculation effect)
+
+## Challenges
+
+* Coming up with questions and answers, now I know the struggle that test makers come up with and I hope my answers were not too obvious in comparison with other answers
+* Refresher on window manipulation methods and vanilla JS as I have been using ES6+ with React/Redux
+
+## Next Steps
+
+* Adding more questions
+* Making the code more dynamic and reusable
