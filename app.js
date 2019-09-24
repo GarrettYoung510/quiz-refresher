@@ -16,7 +16,13 @@ form.addEventListener("submit", e => {
   });
 
   // show result on page
+  //   scroll to top of the page
+  scrollTo(0, 0);
   result.querySelector("span").textContent = `${score}%`;
   //   use classList to remove d-none
   result.classList.remove("d-none");
 });
+
+// setTimeout(() => {
+//   alert("hello");
+// }, 3000);
