@@ -9,6 +9,7 @@ Built as a refresher on front end topics
 * Real DOM manipulation
 * Window Manipulation methods (scrollTo, preventDefault)
 * Animation (setInterval for score calculation effect)
+* Bootstrap 
 
 ## Challenges
 
