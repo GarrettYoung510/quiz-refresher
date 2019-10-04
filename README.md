@@ -1,4 +1,6 @@
-# Small Quiz for Front End Developers
+# [Small Quiz for Front End Developers](https://garrettyoung510.github.io/quiz-refresher/)
+
+![live preview](https://media.giphy.com/media/igVVXxIkm9Bhg5cJuz/giphy.gif)
 
 ## Reasoning/Motivation
 
